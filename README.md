@@ -2,10 +2,10 @@
 
 ![superwoods_avatar](https://raw.githubusercontent.com/cjmm/profile/gh-pages/img/superwoods_avatar.png)
 
-姓名     | 周木 (周连涛)
-------- | ---
+姓名     | 周木(周连涛)
+:----- | :-------------------
 职务     | 前端组长
-E-mail  | st_sister@icloud.com
+E-mail | st_sister@icloud.com
 手机     | 13333018005
 QQ&微信  | 568834050
 
