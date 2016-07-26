@@ -171,7 +171,7 @@ QQ&微信  | 568834050
 
 我从事前端开发和视觉设计工作12年，目前就职于新华网股份有限公司，职务前端组长、高级前端开发工程师、设计师。
 
-我乐于沟通和分享，崇尚黑客精神、_OpenWeb_ 精神和互联网分享精神，热爱参与_Hackathon_活动和技术沙龙。2016年夏季由CareerX和清华大学水木清华基金会联合举办的["_HackerX_清华大学场"](https://segmentfault.com/e/1160000005827260) _Hackathon_比赛中取得第二名的成绩, 参赛项目[Slive](https://github.com/xinhuaRadioLAB/HackerX_slive#slive)已经。
+我乐于沟通和分享，崇尚黑客精神、_OpenWeb_ 精神和互联网分享精神，热爱参与_Hackathon_活动和技术沙龙。2016年夏季由CareerX和清华大学水木清华基金会联合举办的["_HackerX_清华大学场"](https://segmentfault.com/e/1160000005827260) _Hackathon_比赛中取得第二名的成绩, 参赛项目[Slive](https://github.com/xinhuaRadioLAB/HackerX_slive#slive)已经开源。
 
 我同时擅长前端表现层和动画实现方面的工作，对数据格式化、JSON数据、前端MVC框架有一定技术积累，非常擅长jQuery及JQuery插件封装、JS性能优化，我对Github客户端的使用深有体会，我对于前端项目组前端工程师工作协同有丰富实战经验。我熟悉基于node.js的前端开发工具grunt的使用和相关配置。我精通html5整站建设和架构、部署、优化，擅长移动端web项目构建和优化。我同时精通交互设计和平面设计，有非常丰富和专业的平面设计、UI设计经验。
 
