@@ -181,16 +181,24 @@ QQ&微信  | 568834050
 
 ## **附录**
 
-**_这是我的 Github，期待与您交换 Follow_** <https://github.com/superwoods>
+**_这是我的 Github，期待与您交换 Follow_**
 
-**_当然，您也可以访问我的个人网站获取我的电子名片，同时欢迎交换微信：）_** <http://cjmm.github.io>
+<https://github.com/superwoods>
 
-**_如果您打算下载简历 doc版，点击这里：_** <https://raw.githubusercontent.com/cjmm/profile/gh-pages/zhouliantao_profile.doc>
+**_当然，您也可以访问我的个人网站获取我的电子名片，同时欢迎交换微信：）_** 
 
-**_或者直接访问在他的线版：_** <https://cjmm.github.io/profile/>
+<http://cjmm.github.io>
+
+**_如果您打算下载简历 doc版，点击这里：_** 
+
+<https://raw.githubusercontent.com/cjmm/profile/gh-pages/zhouliantao_profile.doc>
+
+**_或者直接访问在他的线版：_** 
+
+<https://cjmm.github.io/profile/>
 
 --------------------------------------------------------------------------------
-* 本文档使用Markdown格式书写，项目资源包含他的[md格式](README.md)，如果您使用pages或doc打开，可能无法获得最佳预览效果，建议您直接访问[简历在线版](https://cjmm.github.io/profile/)，给您造成不便还请谅解！
+* 本文档使用Markdown格式书写，项目资源包含他的[md格式](https://github.com/cjmm/profile/blob/gh-pages/README.md)，如果您使用pages或doc打开，可能无法获得最佳预览效果，建议您直接访问[简历在线版](https://cjmm.github.io/profile/)，给您造成不便还请谅解！
 * 同[我的个人网站](https://cjmm.github.io)一样，这个简历项目遵守_MIT_开源协议，保留我的署名，您可以尽情享用他们。Have fun~😊
 
 Cheers! 🍻
